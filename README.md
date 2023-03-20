@@ -1,4 +1,4 @@
-# Spring-boot-kafka - Real-World-Project
+# Spring boot & kafka - Real-World-Project
 
 The producer calls to wikimedia, there is a consumer that receive the event's messages and then save the them in a database.
 
